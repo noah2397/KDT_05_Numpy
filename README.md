@@ -12,10 +12,10 @@
 
 교재 : 누구나 파이썬 통계분석    
 - 타니아이 히로키,츠지 신고,권기태(한빛 아카데미)   
-[교재 사이트](https://www.hanbit.co.kr/store/books/look.php?p_code=B2049588591) 
-[교재 코드(Ver.01)](https://www.hanbit.co.kr/support/supplement_list.html) : "누구나 파이썬 통계분석" 검색 -> "소스코드" 클릭
-[교재 코드(Ver.02)](https://github.com/ghmagazine/python_stat_sample)
-<img src="https://www.hanbit.co.kr/data/books/B2049588591_l.jpg" width=300, height=400>   
+[교재 사이트](https://www.hanbit.co.kr/store/books/look.php?p_code=B2049588591)     
+[교재 코드(Ver.01)](https://www.hanbit.co.kr/support/supplement_list.html) : "누구나 파이썬 통계분석" 검색 -> "소스코드" 클릭    
+[교재 코드(Ver.02)](https://github.com/ghmagazine/python_stat_sample)     
+<img src="https://www.hanbit.co.kr/data/books/B2049588591_l.jpg" width=300, height=400>       
 
 <hr/>
 
