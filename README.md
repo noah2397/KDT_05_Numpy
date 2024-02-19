@@ -44,6 +44,10 @@ p.31
 |날짜(Date) | 제목 | 네이버 블로그 | 관련 디렉토리 |
 | --------  | ---  | -----------| ------------|
 | 23.02.16  | numpy,set_option, mean,sort,median,var,square,sqrt,std,ddof  | [Naver Blog](https://blog.naver.com/mathnoah/223355550422)         | Source/notebook/chap01,chap02.ipynb   |
+| 23.02.16  | 데이터 정규화, 히스토그램, 상자그림, cumsum, linspace,arange,ones_like,zeros,ones,hitogram | [Naver Blog](https://blog.naver.com/mathnoah/223355691981)         | Source/notebook/chap02.ipynb   |
+| 23.02.19  | 2차원 데이터 정리,numpy, 공분산, 상관계수, 앤스컴, 히트맵, 회귀직선, hist2d, colorbar, corr, poly1d, polyfit,cov, corrcoef | [Naver Blog](https://blog.naver.com/mathnoah/223358054171)         | Source/notebook/chap03.ipynb   |
+| 23.02.19 |추측통계의 기본 : np.random, 무작위추출, vlines, xlim, query, hlines | [Naver Blog](https://blog.naver.com/mathnoah/223358227791) | Source/notebook/chap04.ipynb |
+| 23.02.19 | 이산형 확률변수,확률의 성질,누적분포함수,확률변수의 변환,1차원 이산형 확률변수의 지표,2차원 이산형 확률변수,주변확률분포,2차원 이산형 확률변수 지표| [Naver Blog](https://blog.naver.com/mathnoah/223358353805) | Source/notebook/chap05.ipynb |
 
 ### 목차
 
