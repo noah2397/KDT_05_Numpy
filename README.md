@@ -48,6 +48,9 @@ p.31
 | 23.02.19  | 2차원 데이터 정리,numpy, 공분산, 상관계수, 앤스컴, 히트맵, 회귀직선, hist2d, colorbar, corr, poly1d, polyfit,cov, corrcoef | [Naver Blog](https://blog.naver.com/mathnoah/223358054171)         | Source/notebook/chap03.ipynb   |
 | 23.02.19 |추측통계의 기본 : np.random, 무작위추출, vlines, xlim, query, hlines | [Naver Blog](https://blog.naver.com/mathnoah/223358227791) | Source/notebook/chap04.ipynb |
 | 23.02.19 | 이산형 확률변수,확률의 성질,누적분포함수,확률변수의 변환,1차원 이산형 확률변수의 지표,2차원 이산형 확률변수,주변확률분포,2차원 이산형 확률변수 지표| [Naver Blog](https://blog.naver.com/mathnoah/223358353805) | Source/notebook/chap05.ipynb |
+| 23.02.20 |이산형 확률분포 : 베르누이 분포, 이항분포, 기하분포, 포아송 분포,scipy,stats,bernoulli,pmf,cdf,comb,binom,geom,poisson | [Naver Blog](https://blog.naver.com/mathnoah/223359288510) | Source/notebook/chap06.ipynb |
+| 23.02.20 | 연속형 확률변수:1차원 확률변수, 2차원 확률변수, scipy, integrate, quad, scipy.optimize, minimize_scalar, nquad, partial| [Naver Blog](https://blog.naver.com/mathnoah/223359449665) | Source/notebook/chap07.ipynb |
+| 23.02.21 |연속형 확률분포:정규분포,지수분포,카이제곱분포,t분포,F분포, norm, chi2,t,f,rvs,expon,pdf,cdf,isf,interval,lam,mu,sigma | [Naver Blog](https://blog.naver.com/mathnoah/223360326566) | Source/notebook/chap08.ipynb |
 
 ### 목차
 
