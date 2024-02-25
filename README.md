@@ -51,6 +51,13 @@ p.31
 | 23.02.20 |이산형 확률분포 : 베르누이 분포, 이항분포, 기하분포, 포아송 분포,scipy,stats,bernoulli,pmf,cdf,comb,binom,geom,poisson | [Naver Blog](https://blog.naver.com/mathnoah/223359288510) | Source/notebook/chap06.ipynb |
 | 23.02.20 | 연속형 확률변수:1차원 확률변수, 2차원 확률변수, scipy, integrate, quad, scipy.optimize, minimize_scalar, nquad, partial| [Naver Blog](https://blog.naver.com/mathnoah/223359449665) | Source/notebook/chap07.ipynb |
 | 23.02.21 |연속형 확률분포:정규분포,지수분포,카이제곱분포,t분포,F분포, norm, chi2,t,f,rvs,expon,pdf,cdf,isf,interval,lam,mu,sigma | [Naver Blog](https://blog.naver.com/mathnoah/223360326566) | Source/notebook/chap08.ipynb |
+| 23.02.21 |독립동일분포 : 상관성,독립성,재생성,중심극한정리,대수의 법칙 | [Naver Blog](https://blog.naver.com/mathnoah/223360655084) | Source/notebook/chap09.ipynb |
+| 23.02.24 |통계적 추정 : 점추정,구간추정,불편성,일치성,모평균 구간추정,모분산 구간추정, 베르누이 분포 모평균 추정,포아송 모평균 구간추정,모분산을 알 때,모를 때,모평균을 모를 때 | [Naver Blog](https://blog.naver.com/mathnoah/223363815261) | Source/notebook/chap10.ipynb |
+| 23.02.24 |통계적 가설검정 : 귀무가설, 대립가설, 기각역, 채택역, 유의수준, 임곗값, 검정통계량, 단측검정, 양측검정, 제1종오류,제2종오류,오탐, 미탐 | [Naver Blog](https://blog.naver.com/mathnoah/223363855268) | Source/notebook/chap11.ipynb |
+| 23.02.24 |일표본 검정 : 정규분포 모평균 검정(모분산을 알 때/모를 때), 정규분포 모분산 검정  | [Naver Blog](https://blog.naver.com/mathnoah/223363870376) | Source/notebook/chap11.ipynb |
+| 23.02.24 |이표본 검정, 2표본 검정 : 대응비교 t 검정, 윌콕슨부호순위검정, 독립비교 t검정, 만, 위트니의 U검정, 카이제곱검정 | [Naver Blog](https://blog.naver.com/mathnoah/223363963236) | Source/notebook/chap11.ipynb |
+| 23.02.24 |회귀분석 : 단순회귀모형,회귀분석 가설, 오차항, statsmodel, ols, 회귀계수, 점추정, t검정  | [Naver Blog](https://blog.naver.com/mathnoah/223364011931) | Source/notebook/chap12.ipynb |
+| 23.02.25 |중회귀모형 : 회귀계수 추정, 가변수, 잔차 제곱합, 결정계수, 조정결정계수, F검정, 최대로그우도, AIC, 베이지안 정보 기준, 왜도, 첨도, 더빈-왓슨비, 다중공선성  | [Naver Blog](https://blog.naver.com/mathnoah/223364068723) | Source/notebook/chap12.ipynb |
 
 ### 목차
 
